@@ -1,3 +1,4 @@
+# Planartunnel
 Planartunnel is a tiny intro designed for ECS/OCS Amigas.
 It features a fake 3D animation of a spaceship flying through a tunnel.
 
@@ -11,9 +12,9 @@ To build the executable, run the provided Makefile.
 You'll need Shrinkler and vasm installed.
 If everything goes well, the final binary should be 4072 bytes in size.
 
-Credits
-Code: Ozzyboshi
-Music: IM76
-Direction: Z3K
+Credits:
+- Code: Ozzyboshi
+- Music: IM76
+- Direction: Z3K
 
 
