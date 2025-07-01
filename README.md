@@ -17,5 +17,9 @@ Credits:
 - Music: IM76
 - Direction: Z3K
 
+Screenshot:
+![00104371.png](00104371.png)
+
+Thanks:
 ![hq720](hq720.jpg)
 ![posadas_cartel_2025](posadas_cartel_2025.jpg)
