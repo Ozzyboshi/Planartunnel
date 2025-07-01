@@ -12,14 +12,16 @@ To build the executable, run the provided Makefile.
 You'll need Shrinkler and vasm installed.
 If everything goes well, the final binary should be 4072 bytes in size.
 
-Credits:
+### Credits:
 - Code: Ozzyboshi
 - Music: IM76
 - Direction: Z3K
 
-Screenshot:
+### Screenshot:
+
 ![00104371.png](00104371.png)
 
-Thanks:
+### Thanks:
+
 ![hq720](hq720.jpg)
 ![posadas_cartel_2025](posadas_cartel_2025.jpg)
